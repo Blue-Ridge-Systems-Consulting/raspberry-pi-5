@@ -245,3 +245,5 @@ This repository includes Blue Ridge Systems Consulting branding assets. See [`BR
 </a>
 
 This repository is regularly scanned by **Aikido Security** to help identify potential security issues and support ongoing code quality improvements.
+
+[![Nexus ARM](https://img.shields.io/badge/Optimized%20for-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
